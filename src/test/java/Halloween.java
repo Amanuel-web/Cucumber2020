@@ -6,8 +6,10 @@ public class Halloween {
 // add
         for (int i = 0; i <= ss.length()-1; i++){
 
-            System.out.println(ss.charAt(i));
+            char a = ss.charAt(i);
+
         }
+
 
 
     }
