@@ -4,7 +4,10 @@ public class Halloween {
 
         String ss = "asdfghjk";
 
-        System.out.println("ss = " + ss);
+        for (int i = 0; i <= ss.length()-1; i++){
+
+            System.out.println(ss.charAt(i));
+        }
 
 
     }
