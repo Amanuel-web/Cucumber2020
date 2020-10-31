@@ -4,8 +4,7 @@ public class Halloween {
 
         String ss = "asdfghjk";
 
-
-
+        System.out.println("ss = " + ss);
 
 
     }
